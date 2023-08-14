@@ -1,0 +1,232 @@
+<mxfile host="app.diagrams.net" modified="2023-08-14T17:12:51.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ehtwtZmZ3u8NiAqphOOZ" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="o2mU-gd5lo1RMb3A44kx">
+    <mxGraphModel dx="792" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KNgDJK_nHLpliA86_dy5-22" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-24" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-25" value="ДБ Пользователи" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-26" value="ДБ Книги и Магазины" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-61" value="Книги и Магазины" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="160" width="175" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="30" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-63" value="id магазина" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-62">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-64" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="61" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-65" value="адрес магазина" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-64">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="92" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-67" value="id книги" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-66">
+          <mxGeometry width="175" height="30" as="geometry">
+            <mxRectangle width="175" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-68" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="122" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-69" value="название книги" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-68">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="153" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-71" value="жанр" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-70">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-72" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="184" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-73" value="цена" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-72">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="215" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-75" value="автор" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-74">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-61">
+          <mxGeometry y="246" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-77" value="год издания" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-76">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-86" value="Пользователи" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-86">
+          <mxGeometry y="30" width="140" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-88" value="id пользователя" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-87">
+          <mxGeometry width="140" height="22" as="geometry">
+            <mxRectangle width="140" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-86">
+          <mxGeometry y="52" width="140" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-90" value="ФИО" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-89">
+          <mxGeometry width="140" height="22" as="geometry">
+            <mxRectangle width="140" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-86">
+          <mxGeometry y="74" width="140" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-92" value="логин" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-91">
+          <mxGeometry width="140" height="22" as="geometry">
+            <mxRectangle width="140" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-86">
+          <mxGeometry y="96" width="140" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-94" value="пароль" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-93">
+          <mxGeometry width="140" height="22" as="geometry">
+            <mxRectangle width="140" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-86">
+          <mxGeometry y="118" width="140" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-96" value="id магазина" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-95">
+          <mxGeometry width="140" height="22" as="geometry">
+            <mxRectangle width="140" height="22" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-97" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KNgDJK_nHLpliA86_dy5-24" target="KNgDJK_nHLpliA86_dy5-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-99" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="240" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-100" value="ДБ Книги и Магазины" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-101" value="Книги и Магазины" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="160" width="175" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-102" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="30" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-103" value="id магазина" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-102">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-104" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="61" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-105" value="адрес магазина" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-104">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-106" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="92" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-107" value="id книги" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-106">
+          <mxGeometry width="175" height="30" as="geometry">
+            <mxRectangle width="175" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-108" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="122" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-109" value="название книги" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-108">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-110" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="153" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-111" value="жанр" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-110">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-112" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="184" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-113" value="цена" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-112">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-114" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="215" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-115" value="автор" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-114">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-116" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-101">
+          <mxGeometry y="246" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-117" value="год издания" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="KNgDJK_nHLpliA86_dy5-116">
+          <mxGeometry width="175" height="31" as="geometry">
+            <mxRectangle width="175" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-118" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KNgDJK_nHLpliA86_dy5-99" target="KNgDJK_nHLpliA86_dy5-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-119" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KNgDJK_nHLpliA86_dy5-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="290" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-121" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KNgDJK_nHLpliA86_dy5-120" target="KNgDJK_nHLpliA86_dy5-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-122" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KNgDJK_nHLpliA86_dy5-120" target="KNgDJK_nHLpliA86_dy5-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-120" value="Кластер нашей ДБ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="790" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KNgDJK_nHLpliA86_dy5-123" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KNgDJK_nHLpliA86_dy5-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="470" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
